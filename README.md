@@ -4,9 +4,8 @@ This service is a simplified technical demo version of the taxi service.
 
 ## Features
 
-- Registration like a new drivers
-- Authentication and authorization like a driver
-- Driver logout
+- Registration like a new driver
+- Driver log in/out
 - Create, update and remove a driver
 - Create, update and remove a manufacture
 - Create, update and remove a car
